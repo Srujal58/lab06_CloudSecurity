@@ -24,4 +24,9 @@ Before running this Terraform script, ensure you have the following prerequisite
    ```bash
    git clone https://github.com/your_username/terraform-aws-iam-role-policy.git
    cd terraform-aws-iam-role-policy
-![Screenshot 2](main/to/ss1.png)
+![Screenshot 1](ss1.png)
+![Screenshot 2](ss2.png)
+![Screenshot 3](ss3.png)
+![Screenshot 4](ss4.png)
+![Screenshot 5](ss5.png)
+![Screenshot 6](ss6.png)
